@@ -9,6 +9,7 @@ This project compares portfolio risk metrics estimated using three approaches:
 * Historical Rolling Returns
 
 📝 Key Findings:
+
 1️⃣ Comparison of Risk Estimation Methods
 * The t-Distribution simulation consistently produced the highest VaR and CVaR estimates, reflecting its ability to capture fat tails and extreme downside risk.
 
