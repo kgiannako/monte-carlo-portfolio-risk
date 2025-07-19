@@ -4,11 +4,9 @@ Monte Carlo simulations for portfolio VaR and CVaR estimation.
 📊 Portfolio Risk Analysis Summary
 This project compares portfolio risk metrics estimated using three approaches:
 
-Monte Carlo Simulation (Normal Distribution)
-
-Monte Carlo Simulation (t-Distribution)
-
-Historical Rolling Returns
+* Monte Carlo Simulation (Normal Distribution)
+* Monte Carlo Simulation (t-Distribution)
+* Historical Rolling Returns
 
 📝 Key Findings:
 1️⃣ Comparison of Risk Estimation Methods
