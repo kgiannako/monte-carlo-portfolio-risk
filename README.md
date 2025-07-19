@@ -10,18 +10,18 @@ This project compares portfolio risk metrics estimated using three approaches:
 
 📝 Key Findings:
 1️⃣ Comparison of Risk Estimation Methods
-The t-Distribution simulation consistently produced the highest VaR and CVaR estimates, reflecting its ability to capture fat tails and extreme downside risk.
+* The t-Distribution simulation consistently produced the highest VaR and CVaR estimates, reflecting its ability to capture fat tails and extreme downside risk.
 
-The Normal-based Monte Carlo underestimated tail risks compared to the t-Distribution, especially for market-cap weighted portfolios.
+* The Normal-based Monte Carlo underestimated tail risks compared to the t-Distribution, especially for market-cap weighted portfolios.
 
-Historical data showed the lowest VaR and CVaR, highlighting that past market behavior may underrepresent potential future extremes.
+* Historical data showed the lowest VaR and CVaR, highlighting that past market behavior may underrepresent potential future extremes.
 
 2️⃣ Comparison Between Portfolio Strategies
-The Market Cap Weighted Portfolio exhibited higher simulated risk in both Normal and t-Distribution scenarios, suggesting higher exposure to systemic market downturns.
+* The Market Cap Weighted Portfolio exhibited higher simulated risk in both Normal and t-Distribution scenarios, suggesting higher exposure to systemic market downturns.
 
-Conversely, historically, the Equal Weight Portfolio experienced higher risk, likely due to its greater exposure to smaller, more volatile stocks.
+* Conversely, historically, the Equal Weight Portfolio experienced higher risk, likely due to its greater exposure to smaller, more volatile stocks.
 
-This contrast shows how simulation-based risk measures can reveal latent risks not evident in historical performance alone.
+* This contrast shows how simulation-based risk measures can reveal latent risks not evident in historical performance alone.
 
 **Conclusion**:
 The analysis underscores the importance of stress-testing portfolios under different modeling assumptions.
